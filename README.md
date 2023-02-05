@@ -19,7 +19,7 @@ Mermaid allows you to generate diagrams like flowcharts, sequence diagrams, and 
 Read more about Mermaid [on the example page](./examples/mermaid.md).
 
 ## To Do
+- Emoji
 - Tables
 - Task Lists
-- Emoji
 - Syntax Highlighting
